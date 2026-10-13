@@ -25,3 +25,19 @@ To analyze overall hotel performance using data visualization and interactive da
 - How can KPIs help improve hotel performance?
 
 Dashboard Interaction - <a href="https://github.com/Dayana1810/Data-Analysis-Dashboard/blob/main/Screenshot%202026-10-13%20111334.png">View Dashboard</a>
+
+## Process
+- Collected hotel booking data, including revenue, booking status, room categories, customer ratings, and occupancy.
+- Removed duplicate records, handled missing values, and corrected data formats to ensure data accuracy.
+- Organized and prepared the data for analysis by standardizing columns and creating the required calculations.
+- Created key performance indicators (KPIs), including total revenue, total bookings, average rating, cancelled bookings, cancellation percentage, and occupancy rate.
+- Created charts such as bar charts, doughnut charts, radar charts, and line charts to analyze hotel performance.
+- Arranged KPI cards, charts, and filters into a clear and interactive dashboard layout.
+- Added interactive filters to analyze data by booking platform, room category, booking status, ratings, and date.
+- Analyzed revenue trends, cancellation patterns, customer satisfaction, and hotel performance to identify areas for improvement.
+- Reviewed the dashboard for accuracy, usability, and visual clarity to support better business decision-making.
+
+## Dashboard
+
+<img width="1190" height="615" alt="Screenshot 2026-10-13 111334" src="https://github.com/user-attachments/assets/823f3946-84c2-4bf5-828d-476942b4115e" />
+

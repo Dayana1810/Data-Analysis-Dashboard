@@ -24,4 +24,4 @@ To analyze overall hotel performance using data visualization and interactive da
 - How does weekly revenue change over time?
 - How can KPIs help improve hotel performance?
 
-Dashboard Interaction - <a href="
+Dashboard Interaction - <a href="https://github.com/Dayana1810/Data-Analysis-Dashboard/blob/main/Screenshot%202026-10-13%20111334.png">View Dashboard</a>

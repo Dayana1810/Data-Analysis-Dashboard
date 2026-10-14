@@ -37,7 +37,7 @@ Dashboard Interaction - <a href="https://github.com/Dayana1810/Data-Analysis-Das
 - Analyzed revenue trends, cancellation patterns, customer satisfaction, and hotel performance to identify areas for improvement.
 - Reviewed the dashboard for accuracy, usability, and visual clarity to support better business decision-making.
 
-## Dashboard
+## Excel Dashboard
 
 <img width="1190" height="615" alt="Screenshot 2026-10-13 111334" src="https://github.com/user-attachments/assets/823f3946-84c2-4bf5-828d-476942b4115e" />
 

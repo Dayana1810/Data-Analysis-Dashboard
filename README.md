@@ -47,5 +47,6 @@ Dashboard Interaction - <a href="https://github.com/Dayana1810/Data-Analysis-Das
 ### Shodwe Hotel cancellation Analysis and Booking Trends
 <img width="1644" height="605" alt="Screenshot 2026-10-13 121526" src="https://github.com/user-attachments/assets/5fde9c7c-a894-4bd2-8183-ed80332c9031" />
 
-
+## Final Conclusion
+In conclusion, our Hospitality Analytics Dashboard helped analyze hotel performance, revenue, occupancy rates, and booking trends. Using Excel, SQL, Power BI, and Tableau, we transformed raw data into meaningful insights through data cleaning, analysis, and visualization. This project demonstrates how data analytics can help the hospitality industry improve operational efficiency, increase revenue, and make better business decisions.
 
